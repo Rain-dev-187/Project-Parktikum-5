@@ -28,3 +28,13 @@ python Praktikum_Struktur_Data.py
 ```
 
 Lalu pilih nomor soal (1–5). File `contoh_teks.txt` harus berada di folder yang sama.
+
+## Bukti Hasil Run
+
+Soal 1–3 (analisis kalimat, nilai mahasiswa, beasiswa):
+
+![Bukti run Soal 1–3](bukti_praktikum_soal1-3.png)
+
+Soal 4–5 (inventaris toko, analisis teks):
+
+![Bukti run Soal 4–5](bukti_praktikum_soal4-5.png)
