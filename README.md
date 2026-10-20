@@ -58,8 +58,9 @@ Lalu pilih nomor soal (1–5). File `contoh_teks.txt` harus berada di folder yan
 
 Soal 1–3 (analisis kalimat, nilai mahasiswa, beasiswa):
 
-![Bukti run Soal 1–3](bukti_praktikum_soal1-3.png)
+<img width="1000" height="647" alt="bukti_praktikum_soal1-3" src="https://github.com/user-attachments/assets/de0d8303-848f-4200-a01f-1da04692f3a2" />
 
 Soal 4–5 (inventaris toko, analisis teks):
 
-![Bukti run Soal 4–5](bukti_praktikum_soal4-5.png)
+![Bukti run Soal 4–5](bukti_praktikum_soal4-5.png)<img width="1000" height="670" alt="bukti_praktikum_soal4-5" src="https://github.com/user-attachments/assets/d5f13462-380d-46c2-bcc6-a7745ef998ae" />
+
