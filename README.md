@@ -62,5 +62,5 @@ Soal 1–3 (analisis kalimat, nilai mahasiswa, beasiswa):
 
 Soal 4–5 (inventaris toko, analisis teks):
 
-![Bukti run Soal 4–5](bukti_praktikum_soal4-5.png)<img width="1000" height="670" alt="bukti_praktikum_soal4-5" src="https://github.com/user-attachments/assets/d5f13462-380d-46c2-bcc6-a7745ef998ae" />
+<img width="1000" height="670" alt="bukti_praktikum_soal4-5" src="https://github.com/user-attachments/assets/d5f13462-380d-46c2-bcc6-a7745ef998ae" />
 
