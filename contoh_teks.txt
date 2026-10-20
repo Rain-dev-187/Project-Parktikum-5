@@ -1,0 +1,13 @@
+Data adalah aset penting dalam sistem informasi modern. Setiap hari sistem informasi
+mengumpulkan data dari berbagai sumber seperti transaksi penjualan, interaksi pengguna,
+dan sensor perangkat. Data yang terkumpul kemudian diolah menjadi informasi yang
+bermanfaat bagi pengambilan keputusan. Proses pengolahan data membutuhkan struktur data
+yang tepat agar program berjalan efisien dan mudah dipelihara. Python menyediakan
+struktur data seperti string untuk teks, list untuk koleksi dinamis, tuple untuk data
+tetap, set untuk elemen unik, dan dictionary untuk pemetaan kunci ke nilai. Pemilihan
+struktur data yang tepat sangat memengaruhi kinerja program. Sebagai contoh, pencarian
+pada set jauh lebih cepat daripada pencarian pada list untuk data berukuran besar.
+Mahasiswa sistem informasi perlu menguasai struktur data agar mampu membangun aplikasi
+yang handal. Aplikasi yang handal membutuhkan data yang akurat dan proses yang cepat.
+Dengan memahami string, list, tuple, set, dan dictionary, mahasiswa dapat memilih
+struktur data terbaik untuk setiap masalah dalam sistem informasi.
